@@ -3,3 +3,5 @@
 info:
   foo: change
   someList: [2, 3, 7]
+
+pattern: '0 * * * * ?'
