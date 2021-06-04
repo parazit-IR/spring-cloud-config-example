@@ -6,4 +6,4 @@ info:
 
 application:
   pattern:
-    expression: '0/30 * * * * ?'
+    expression: '0/1 * * * * ?'
