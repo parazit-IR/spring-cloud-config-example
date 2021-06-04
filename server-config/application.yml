@@ -4,4 +4,4 @@ info:
   foo: change
   someList: [2, 3, 7]
 
-pattern: '0 * * * * ?'
+pattern: '0/2 * * * * ?'
