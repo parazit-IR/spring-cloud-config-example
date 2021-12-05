@@ -1,9 +1,4 @@
 # Config data exposed by config server
 
 info:
-  foo: change
-  someList: [2, 3, 7]
-
-application:
-  pattern:
-    expression: '0/20 * * * * ?'
+  foo: new
