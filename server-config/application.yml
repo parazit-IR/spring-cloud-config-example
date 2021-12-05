@@ -1,7 +1,7 @@
 # Config data exposed by config server
 
 info:
-  foo: taghir
+  foo: taghirJadid
   someList: [2, 3, 7]
 
 application:
